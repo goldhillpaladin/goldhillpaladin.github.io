@@ -6,6 +6,7 @@
         </td>  
         <td width="75%">       
             <h1>Sheng Qian</h1>       
+            <p><b>Programmer </b></p>       
             <p><b>Tecent, Shenzhen 518000, China </b></p>       
             <p><b>Email: qiansheng0601@outlook.com</b></p>   
         </td> 
